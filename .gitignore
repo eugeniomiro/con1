@@ -1,1 +1,3 @@
+# este archivo .gitignore se usa para ignorar archivos y directorios del proyecto en el repositorio git
+#
 obj/
